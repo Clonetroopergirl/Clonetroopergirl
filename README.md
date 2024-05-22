@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Clonetroopergirl
+- 👀 I’m interested in Javascript.
+- 🌱 I’m currently learning how to make my own code.
